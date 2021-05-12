@@ -1,0 +1,8 @@
+name: DeathSwap
+version: 1.0
+author: Pijok
+main: pl.pijok.deathswap.DeathSwap
+commands:
+  deathswap:
+    usage: /deathswap
+    aliases: [ds]
